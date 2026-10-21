@@ -6,6 +6,38 @@
 
 void main() {
     // Print "Hello World!", with a newline at the end.
+       System.out.print("HELLOOOOOO! Guess what, chicken butt!!");
+
+       int number = 4;
+       System.out.println(number);
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     // Print the following lines, each with a separate `println()` statement:
